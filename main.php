@@ -1,4 +1,4 @@
 <?php
 function helloWorld(){
-    print('Hello world');
+    print('Hello world!');
 }
